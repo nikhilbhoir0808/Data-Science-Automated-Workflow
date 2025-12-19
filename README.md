@@ -86,7 +86,7 @@ Fine-tune hyperparameters using GridSearchCV.
 ### Step 8: Live Predictions
 Deploy your model for real-time predictions with probability scores.
 
-![Predictions](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step8_predictions.png)
+![Predictions](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step8_prediction.png)
 
 ### Step 9: Monitoring Logs
 Track all predictions with timestamps for model monitoring.
