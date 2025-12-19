@@ -50,48 +50,48 @@ A comprehensive, production-ready Streamlit application that guides you through 
 ### Step 1: Data Upload
 Upload your CSV dataset and select the target column for supervised learning.
 
-![Data Upload](https://github.com/yourusername/yourrepo/raw/main/screenshots/step1_data_upload.png)
+![Data Upload](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step1_data_upload.png)
 
 ### Step 2: Data Cleaning
 Choose from multiple cleaning operations with automatic categorical encoding.
 
-![Data Cleaning](https://github.com/yourusername/yourrepo/raw/main/screenshots/step2_data_cleaning.png)
+![Data Cleaning](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step2_data_cleaning.png)
 
 ### Step 3: Exploratory Data Analysis
 Visualize your data with correlation heatmaps, histograms, and pairplots.
 
-![EDA](https://github.com/yourusername/yourrepo/raw/main/screenshots/step3_eda.png)
-![Pairplot](https://github.com/yourusername/yourrepo/raw/main/screenshots/step3_pairplot.png)
+![EDA](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step3_eda.png)
+![Pairplot](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step3_pairplot.png)
 
 ### Step 4: Feature Engineering
 Apply standard scaling to normalize numeric features.
 
-![Feature Engineering](https://github.com/yourusername/yourrepo/raw/main/screenshots/step4_feature_engineering.png)
+![Feature Engineering](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step4_feature_engineering.png)
 
 ### Step 5: Model Training
 Train machine learning models with a single click.
 
-![Model Training](https://github.com/yourusername/yourrepo/raw/main/screenshots/step5_model_training.png)
+![Model Training](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step5_model_training.png)
 
 ### Step 6: Model Evaluation
 Review detailed classification reports and performance metrics.
 
-![Model Evaluation](https://github.com/yourusername/yourrepo/raw/main/screenshots/step6_evaluation.png)
+![Model Evaluation](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step6_evaluation.png)
 
 ### Step 7: Model Optimization
 Fine-tune hyperparameters using GridSearchCV.
 
-![Optimization](https://github.com/yourusername/yourrepo/raw/main/screenshots/step7_optimization.png)
+![Optimization](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step7_optimization.png)
 
 ### Step 8: Live Predictions
 Deploy your model for real-time predictions with probability scores.
 
-![Predictions](https://github.com/yourusername/yourrepo/raw/main/screenshots/step8_predictions.png)
+![Predictions](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step8_predictions.png)
 
 ### Step 9: Monitoring Logs
 Track all predictions with timestamps for model monitoring.
 
-![Monitoring](https://github.com/yourusername/yourrepo/raw/main/screenshots/step9_monitoring.png)
+![Monitoring](https://github.com/nikhilbhoir0808/Data-Science-Automated-Workflow/blob/main/screenshots/step9_monitoring.png)
 
 ---
 
