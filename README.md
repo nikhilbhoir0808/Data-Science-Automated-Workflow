@@ -269,9 +269,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [nikhilbhoir0808](https://github.com/nikhilbhoir0808)
+- LinkedIn: [Nikhil Rajesh Bhoir](https://www.linkedin.com/in/nikhil-rajesh-bhoir-228105243/)
+- Email: nikhilbhoir710@gmail.com
 
 ---
 
